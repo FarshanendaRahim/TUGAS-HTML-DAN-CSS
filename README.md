@@ -1,1 +1,3 @@
 # TUGAS-HTML-DAN-CSS
+NAMA  :Farshaneda Rahim
+NIM   :E1E119055
